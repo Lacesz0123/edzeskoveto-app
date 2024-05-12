@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "985749047164",
+    "project_id": "edzeskoveto-392ce",
+    "storage_bucket": "edzeskoveto-392ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985749047164:android:640ec5aa28f24a125246f9",
+        "android_client_info": {
+          "package_name": "com.example.edzeskoveto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXpGybH1KSbYLFF0AeE2DMON_vVUUmOpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

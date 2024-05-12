@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Edzés Követő</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="email">Email</string>
+    <string name="password">Jelszó</string>
+    <string name="register">Regisztráció</string>
+    <string name="click_to_login">Kattints ide a bejelentkezéshez</string>
+    <string name="click_to_register">Kattints ide a regisztrációhoz</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="description_login_icon">Bejelentkezési ikon</string>
+    <string name="edzes_type">Edzés részletes leírása</string>
+    <string name="profile">Profilom</string>
+    <string name="back">Vissza</string>
+    <string name="delete_profile">Profil törlése</string>
+    <string name="update_password">Jelszó frissítése</string>
+    <string name="new_password">Új jelszó</string>
+    <string name="user_email">Felhasználó Email</string>
+</resources>
