@@ -1,1 +1,1 @@
-Discordon keress nyugodtan ha lenne valaki probléma: somaa21
+Discordon keress nyugodtan ha lenne valami probléma: somaa21
